@@ -1,0 +1,20 @@
+{
+  "name": "magicalforms",
+  "version": "1.0.0",
+  "description": "npm package for magicalforms",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "npx parcel src/example.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@types/react": "^18.2.14",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "typescript": "^5.1.5"
+  }
+}
